@@ -10,5 +10,4 @@ MarkupSafe==2.0.1
 numpy==1.19.5
 pandas==1.1.5
 requests==2.26
-virtualenv==20.8.1
 Werkzeug==2.0.1
